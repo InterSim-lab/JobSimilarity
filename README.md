@@ -26,7 +26,7 @@ uvicorn app.main:app --reload
 
 ### > Get Random Jobs
 
-==/api/jobs/random==
+== /api/jobs/random ==
 
 Params:
 
