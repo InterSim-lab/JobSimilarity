@@ -3,8 +3,8 @@
 ## Clone to your Local Machine
 
 ```bash
-git clone htps://example.com
-cd example
+git clone https://github.com/InterSim-lab/JobSimilarity.git
+cd JobSimilarity
 ```
 
 I recommend to make **Virtual Environment** before installing dependencies.
