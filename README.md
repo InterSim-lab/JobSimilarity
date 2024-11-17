@@ -26,7 +26,7 @@ uvicorn app.main:app --reload
 
 ### > Get Random Jobs
 
-```json
+```bash
 /api/jobs/random
 ```
 
@@ -34,7 +34,7 @@ Params:
 
 limit (int): The number of random jobs to return. Defaults to 10.
 Example:
-```json
+```bash
 /api/jobs/random?limit=20
 ```
 
@@ -72,7 +72,7 @@ Example:
 ```
 
 ### > Get Detail Jobs
-```json
+```bash
 /api/jobs/[id]
 ```
 Params:
@@ -80,7 +80,7 @@ Params:
 **id**: The ID of the job to find similar jobs for.
 
 Example:
-```json
+```bash
 /api/jobs/85
 ```
 
@@ -103,7 +103,7 @@ Example:
 ```
 
 ### > GET Jobs by Category
-```json
+```bash
 /api/jobs/category/[category_name]
 ```
 
@@ -113,10 +113,10 @@ Params:
 - **limit**: The number of jobs to return. **Defaults to 10.**
 
 Example: 
-```json
+```bash
 /api/jobs/category/Operations
 ```
-```json
+```bash
 /api/jobs/category/Operations?limit=15
 ```
 
@@ -154,7 +154,7 @@ Example:
 ```
 
 ### > GET Jobs Similar by **id**
-```json
+```bash
 /api/jobs/[id]/similar
 ```
 
@@ -164,11 +164,11 @@ Params:
 - **limit:** The number of jobs to return. **Defaults to 10.**
 
 Example: 
-```json
+```bash
 /api/jobs/85/similar
 ```
 Example: 
-```json
+```bash
 /api/jobs/85/similar?limit=20
 ```
 
