@@ -1,0 +1,540 @@
+[
+  {
+    "job_description": "UX Designer\n\n**Keahlian yang dibutuhkan:**\n1. Minimal 3 tahun pengalaman sebagai UX Designer\n2. Mahir menggunakan Figma, Adobe XD, dan Sketch\n3. Memahami prinsip design thinking dan user-centered design\n4. Pengalaman dalam melakukan user research dan usability testing\n5. Mampu membuat wireframes, prototypes, dan user flows\n6. Kemampuan yang baik dalam visual design\n7. Pengalaman dalam mobile app design\n\n**Persyaratan:**\n1. Minimal S1 dari jurusan Design, HCI, atau bidang terkait\n2. Portfolio yang menunjukkan pengalaman design\n3. Kemampuan komunikasi yang baik\n4. Mampu berkolaborasi dengan developer dan stakeholder\n5. Berpikir kritis dan problem-solving yang kuat\n6. Mengikuti perkembangan tren UX/UI terbaru\n7. Bersedia berbasis di Jakarta",
+    "applicant_info": "Ahmad Rizky Pratama\nInstitut Teknologi Bandung\nTeknik Mesin",
+    "questions": {
+      "q1": "Dengan latar belakang Teknik Mesin, bagaimana Anda beralih ke dunia UX Design?",
+      "q2": "Bisakah Anda menjelaskan salah satu proyek UX terbaik dalam portfolio Anda?",
+      "q3": "Bagaimana pendekatan Anda dalam melakukan user research?",
+      "q4": "Ceritakan pengalaman Anda dalam menerjemahkan kebutuhan teknis menjadi desain yang user-friendly.",
+      "q5": "Apa tantangan terbesar yang pernah Anda hadapi dalam proyek UX dan bagaimana mengatasinya?",
+      "q6": "Bagaimana Anda menangani feedback yang bertentangan dari berbagai stakeholder?",
+      "q7": "Bisa jelaskan proses design thinking yang Anda terapkan dalam proyek?",
+      "q8": "Apa tools favorit Anda untuk prototyping dan mengapa?",
+      "q9": "Bagaimana Anda mengukur kesuksesan dari desain yang Anda buat?",
+      "q10": "Ceritakan pengalaman Anda dalam melakukan usability testing.",
+      "q11": "Bagaimana latar belakang teknik mesin mempengaruhi pendekatan Anda dalam UX design?",
+      "q12": "Apa yang membuat Anda tertarik dengan posisi ini?",
+      "q13": "Bagaimana Anda menjaga pengetahuan UX/UI Anda tetap up-to-date?",
+      "q14": "Ceritakan pengalaman Anda bekerja dengan tim development.",
+      "q15": "Ada hal lain yang ingin Anda tanyakan tentang posisi ini?"
+    }
+  },
+  {
+    "job_description": "Digital Marketing Manager\n\n**Keahlian yang dibutuhkan:**\n1. Minimal 5 tahun pengalaman di digital marketing\n2. Ahli dalam social media marketing dan content strategy\n3. Pengalaman dalam managing paid advertising (Meta Ads, Google Ads)\n4. Pemahaman yang kuat tentang SEO/SEM\n5. Kemampuan analisis data marketing dan ROI\n6. Pengalaman memimpin tim marketing\n7. Mampu membuat dan mengeksekusi strategi marketing\n\n**Persyaratan:**\n1. S1 Marketing, Komunikasi, atau bidang terkait\n2. Sertifikasi Google Analytics dan Google Ads\n3. Portfolio kampanye digital marketing\n4. Kemampuan leadership yang kuat\n5. Pemahaman tentang marketing automation\n6. Kemampuan budgeting dan forecasting\n7. Bersedia berbasis di Surabaya",
+    "applicant_info": "Dewi Sartika Putri\nUniversitas Indonesia\nIlmu Komunikasi",
+    "questions": {
+      "q1": "Bagaimana Anda mengembangkan karir di bidang digital marketing?",
+      "q2": "Ceritakan kampanye marketing tersukses yang pernah Anda tangani.",
+      "q3": "Bagaimana strategi Anda dalam mengoptimalkan budget marketing?",
+      "q4": "Apa pendekatan Anda dalam memimpin tim marketing?",
+      "q5": "Bagaimana Anda mengukur efektivitas kampanye digital?",
+      "q6": "Ceritakan pengalaman Anda menangani krisis dalam social media.",
+      "q7": "Bagaimana Anda mengintegrasikan berbagai channel marketing?",
+      "q8": "Apa strategi Anda dalam meningkatkan engagement di social media?",
+      "q9": "Bagaimana Anda menentukan target audience untuk kampanye?",
+      "q10": "Ceritakan pengalaman Anda dengan marketing automation.",
+      "q11": "Bagaimana Anda menyeimbangkan SEO dan paid advertising?",
+      "q12": "Apa inovasi marketing yang pernah Anda implementasikan?",
+      "q13": "Bagaimana Anda mengelola hubungan dengan stakeholders?",
+      "q14": "Apa rencana Anda untuk marketing team di perusahaan kami?",
+      "q15": "Bagaimana kesiapan Anda untuk relokasi ke Surabaya?"
+    }
+  },
+  {
+    "job_description": "Backend Developer\n\n**Keahlian yang dibutuhkan:**\n1. Minimal 3 tahun pengalaman sebagai Backend Developer\n2. Mahir dalam Node.js, Python, atau Java\n3. Pengalaman dengan database SQL dan NoSQL\n4. Familiar dengan cloud services (AWS/GCP)\n5. Pemahaman tentang microservices architecture\n6. Pengalaman dengan API development\n7. Kemampuan dalam security best practices\n\n**Persyaratan:**\n1. S1 Teknik Informatika/Sistem Informasi\n2. Pengalaman dengan version control (Git)\n3. Pemahaman tentang CI/CD\n4. Kemampuan problem-solving yang kuat\n5. Bisa bekerja dalam agile environment\n6. Familiar dengan container technology\n7. Bersedia berbasis di Yogyakarta",
+    "applicant_info": "Rayhan Aditya Nugroho\nUniversitas Brawijaya\nSistem Informasi",
+    "questions": {
+      "q1": "Ceritakan proyek backend terbesar yang pernah Anda tangani.",
+      "q2": "Bagaimana pendekatan Anda dalam merancang API?",
+      "q3": "Apa pengalaman Anda dengan microservices?",
+      "q4": "Bagaimana Anda menangani masalah security dalam development?",
+      "q5": "Ceritakan pengalaman Anda dengan cloud services.",
+      "q6": "Bagaimana Anda mengoptimalkan performa database?",
+      "q7": "Apa strategi testing yang Anda terapkan?",
+      "q8": "Bagaimana Anda menangani high-traffic scenarios?",
+      "q9": "Ceritakan pengalaman Anda dengan CI/CD pipeline.",
+      "q10": "Apa tantangan terbesar dalam proyek backend Anda?",
+      "q11": "Bagaimana Anda stay updated dengan teknologi terbaru?",
+      "q12": "Ceritakan pengalaman Anda dengan container orchestration.",
+      "q13": "Bagaimana Anda menangani technical debt?",
+      "q14": "Apa yang membuat Anda tertarik bekerja di Yogyakarta?",
+      "q15": "Bagaimana Anda menangani konflik dalam tim development?"
+    }
+  },
+  {
+    "job_description": "Product Manager\n\n**Keahlian yang dibutuhkan:**\n1. Minimal 4 tahun pengalaman product management\n2. Kemampuan analisis data produk\n3. Pengalaman dalam agile product development\n4. Pemahaman tentang UX design principles\n5. Kemampuan stakeholder management\n6. Pengalaman dalam product strategy\n7. Mampu membuat dan mengeksekusi roadmap\n\n**Persyaratan:**\n1. S1 dari jurusan relevan\n2. Pemahaman tentang teknologi\n3. Kemampuan komunikasi yang kuat\n4. Pengalaman memimpin tim\n5. Analytical thinking\n6. Customer-centric mindset\n7. Bersedia berbasis di Jakarta",
+    "applicant_info": "Nadira Putri Kusuma\nUniversitas Airlangga\nManajemen",
+    "questions": {
+      "q1": "Bagaimana Anda mengembangkan karir di product management?",
+      "q2": "Ceritakan produk tersukses yang pernah Anda tangani.",
+      "q3": "Bagaimana proses Anda dalam membuat product roadmap?",
+      "q4": "Apa pendekatan Anda dalam prioritisasi fitur?",
+      "q5": "Bagaimana Anda mengumpulkan dan menganalisis user feedback?",
+      "q6": "Ceritakan pengalaman Anda bekerja dengan engineering team.",
+      "q7": "Bagaimana Anda menangani konflik kepentingan antar stakeholder?",
+      "q8": "Apa framework yang Anda gunakan untuk product development?",
+      "q9": "Bagaimana Anda mengukur kesuksesan produk?",
+      "q10": "Ceritakan kegagalan produk yang pernah Anda alami dan pembelajaran darinya.",
+      "q11": "Bagaimana Anda memastikan product-market fit?",
+      "q12": "Apa strategi Anda dalam memimpin tim produk?",
+      "q13": "Bagaimana Anda menangani technical constraints?",
+      "q14": "Apa visi Anda untuk produk kami?",
+      "q15": "Bagaimana Anda menyeimbangkan kebutuhan user dan bisnis?"
+    }
+  },
+  {
+    "job_description": "AI Engineer\n\n**Keahlian yang dibutuhkan:**\n1. Minimal 3 tahun pengalaman di machine learning\n2. Mahir dalam Python dan frameworks ML (TensorFlow/PyTorch)\n3. Pengalaman dalam deep learning dan NLP\n4. Familiar dengan cloud ML services\n5. Kemampuan dalam data preprocessing\n6. Pengalaman deployment model ML\n7. Pemahaman tentang ML ops\n\n**Persyaratan:**\n1. S1/S2 Teknik/Sains/Matematika\n2. Portfolio proyek ML/AI\n3. Pemahaman statistik yang kuat\n4. Kemampuan problem-solving\n5. Berpengalaman dengan big data\n6. Familiar dengan version control\n7. Bersedia berbasis di Jakarta",
+    "applicant_info": "Fajar Ramadhan\nInstitut Teknologi Sepuluh Nopember\nTeknik Fisika",
+    "questions": {
+      "q1": "Bagaimana latar belakang Teknik Fisika membantu Anda dalam AI/ML?",
+      "q2": "Ceritakan proyek ML terbaik dalam portfolio Anda.",
+      "q3": "Bagaimana pendekatan Anda dalam memilih model ML?",
+      "q4": "Apa pengalaman Anda dengan NLP projects?",
+      "q5": "Bagaimana Anda menangani masalah data bias?",
+      "q6": "Ceritakan pengalaman Anda dalam ML deployment.",
+      "q7": "Bagaimana Anda mengoptimalkan performa model?",
+      "q8": "Apa tantangan terbesar dalam proyek ML Anda?",
+      "q9": "Bagaimana Anda menangani data preprocessing?",
+      "q10": "Ceritakan pengalaman Anda dengan MLOps.",
+      "q11": "Apa framework ML favorit Anda dan mengapa?",
+      "q12": "Bagaimana Anda memastikan model reliability?",
+      "q13": "Ceritakan pengalaman Anda dengan big data processing.",
+      "q14": "Bagaimana Anda mengikuti perkembangan AI/ML?",
+      "q15": "Apa yang membuat Anda tertarik dengan posisi ini?"
+    }
+  },
+  {
+    "job_description": "Financial Analyst\n\n**Keahlian yang dibutuhkan:**\n1. Minimal 3 tahun pengalaman financial analysis\n2. Mahir dalam financial modeling\n3. Pemahaman mendalam tentang financial statements\n4. Kemampuan forecasting dan budgeting\n5. Pengalaman dalam valuasi bisnis\n6. Mahir Excel dan financial software\n7. Kemampuan analisis risiko\n\n**Persyaratan:**\n1. S1 Akuntansi/Keuangan\n2. Sertifikasi CFA/ACCA (diutamakan)\n3. Kemampuan analitis yang kuat\n4. Attention to detail\n5. Kemampuan komunikasi yang baik\n6. Bisa bekerja dengan deadline\n7. Bersedia berbasis di Jakarta",
+    "applicant_info": "Indira Safitri\nUniversitas Diponegoro\nAkuntansi",
+    "questions": {
+      "q1": "Bagaimana Anda mengembangkan karir di financial analysis?",
+      "q2": "Ceritakan pengalaman Anda dalam financial modeling.",
+      "q3": "Bagaimana pendekatan Anda dalam valuasi perusahaan?",
+      "q4": "Apa tools yang Anda gunakan untuk analisis keuangan?",
+      "q5": "Bagaimana Anda menangani forecasting error?",
+      "q6": "Ceritakan pengalaman Anda dalam risk assessment.",
+      "q7": "Bagaimana Anda mengomunikasikan analisis ke stakeholders?",
+      "q8": "Apa framework yang Anda gunakan untuk analisis investasi?",
+      "q9": "Bagaimana Anda memastikan akurasi dalam analisis?",
+      "q10": "Ceritakan pengalaman Anda dengan budgeting projects.",
+      "q11": "Bagaimana Anda mengikuti perkembangan pasar keuangan?",
+      "q12": "Apa sertifikasi yang Anda miliki atau rencanakan?",
+      "q13": "Bagaimana Anda menangani data yang tidak lengkap?",
+      "q14": "Ceritakan pengalaman Anda bekerja dengan tight deadlines.",
+      "q15": "Apa yang membuat Anda tertarik dengan posisi ini?"
+    }
+  },
+  {
+    "job_description": "Customer Success Manager\n\n**Keahlian yang dibutuhkan:**\n1. Pengalaman dalam customer service/support\n2. Kemampuan komunikasi yang sangat baik\n3. Bisa berbahasa Inggris aktif\n4. Mampu menangani keluhan pelanggan\n5. Keterampilan presentasi yang baik\n6. Familiar dengan CRM software\n7. Kemampuan problem solving\n\n**Persyaratan:**\n1. Minimal S1 dari jurusan apapun\n2. Passionate dalam melayani pelanggan\n3. Energetik dan ramah\n4. Bisa bekerja dalam tim\n5. Multitasking capability\n6. Sabar dan empati tinggi\n7. Bersedia bekerja di Jakarta",
+    "applicant_info": "Maya Wulandari\nUniversitas Negeri Yogyakarta\nPendidikan Bahasa Inggris",
+    "questions": {
+      "q1": "Apa yang membuat Anda tertarik dengan dunia customer service?",
+      "q2": "Bagaimana pengalaman mengajar membantu Anda dalam customer service?",
+      "q3": "Ceritakan pengalaman terbaik Anda dalam membantu customer.",
+      "q4": "Bagaimana cara Anda menangani pelanggan yang sedang kesal?",
+      "q5": "Apa yang Anda lakukan untuk memastikan customer tetap puas?",
+      "q6": "Bagaimana cara Anda menjelaskan hal teknis ke customer awam?",
+      "q7": "Ceritakan pengalaman Anda bekerja dalam tim.",
+      "q8": "Bagaimana Anda menangani banyak tugas sekaligus?",
+      "q9": "Apa yang membuat Anda senang membantu orang lain?",
+      "q10": "Bagaimana Anda menjaga semangat kerja tetap tinggi?",
+      "q11": "Ceritakan situasi di mana Anda berhasil menenangkan pelanggan yang marah.",
+      "q12": "Apa hobi Anda di luar pekerjaan?",
+      "q13": "Bagaimana Anda menyeimbangkan pekerjaan dan kehidupan pribadi?",
+      "q14": "Apa yang membuat Anda ingin bergabung dengan perusahaan kami?",
+      "q15": "Ada pertanyaan untuk kami tentang lingkungan kerja di sini?"
+    }
+  },
+  {
+    "job_description": "Content Creator\n\n**Keahlian yang dibutuhkan:**\n1. Kreatif dalam membuat konten\n2. Familiar dengan social media platform\n3. Kemampuan fotografi dan videografi\n4. Bisa menggunakan Adobe Creative Suite\n5. Storytelling yang menarik\n6. Pemahaman tentang trend sosmed\n7. Bisa menulis caption yang engaging\n\n**Persyaratan:**\n1. Minimal D3/S1 jurusan apapun\n2. Portfolio konten kreatif\n3. Energetik dan update dengan tren\n4. Bisa bekerja dalam tim kreatif\n5. Mampu membuat konten konsisten\n6. Suka belajar hal baru\n7. Bersedia bekerja di Tangerang",
+    "applicant_info": "Adit Prakoso\nUniversitas Multimedia Nusantara\nDesain Komunikasi Visual",
+    "questions": {
+      "q1": "Apa yang membuat Anda suka membuat konten kreatif?",
+      "q2": "Platform social media apa yang paling Anda kuasai?",
+      "q3": "Ceritakan konten favorit yang pernah Anda buat.",
+      "q4": "Bagaimana cara Anda mencari inspirasi?",
+      "q5": "Apa style atau ciri khas konten Anda?",
+      "q6": "Bagaimana Anda mengikuti tren terbaru?",
+      "q7": "Ceritakan pengalaman kolaborasi dengan tim kreatif.",
+      "q8": "Tools apa yang paling sering Anda gunakan?",
+      "q9": "Bagaimana cara Anda mengatasi creative block?",
+      "q10": "Apa jenis konten yang paling Anda nikmati membuatnya?",
+      "q11": "Bagaimana Anda memanfaatkan latar belakang DKV?",
+      "q12": "Ceritakan proses kreatif Anda dari ide sampai eksekusi.",
+      "q13": "Apa sumber inspirasi favorit Anda?",
+      "q14": "Bagaimana Anda menangani feedback dari audience?",
+      "q15": "Apa rencana pengembangan skill Anda ke depan?"
+    }
+  },
+  {
+    "job_description": "HR Recruiter\n\n**Keahlian yang dibutuhkan:**\n1. Pengalaman dalam recruitment\n2. Kemampuan komunikasi yang baik\n3. Bisa melakukan interview\n4. Familiar dengan LinkedIn Recruiter\n5. Kemampuan assessment kandidat\n6. Bisa membuat job description\n7. Pengalaman employer branding\n\n**Persyaratan:**\n1. S1 Psikologi/HRD/Manajemen\n2. Pemahaman recruitment process\n3. Interpersonal skill yang baik\n4. Organized dan teliti\n5. Bisa multitasking\n6. Network yang luas\n7. Bersedia bekerja di BSD",
+    "applicant_info": "Nina Safira\nUniversitas Bina Nusantara\nPsikologi",
+    "questions": {
+      "q1": "Apa yang membuat Anda tertarik dengan dunia recruitment?",
+      "q2": "Bagaimana latar belakang psikologi membantu Anda?",
+      "q3": "Ceritakan pengalaman merekrut kandidat terbaik Anda.",
+      "q4": "Bagaimana cara Anda menilai kandidat?",
+      "q5": "Apa channel rekrutmen favorit Anda?",
+      "q6": "Bagaimana Anda membangun rapport dengan kandidat?",
+      "q7": "Ceritakan cara Anda sourcing kandidat pasif.",
+      "q8": "Apa yang Anda cari dari body language kandidat?",
+      "q9": "Bagaimana cara Anda mempromosikan employer brand?",
+      "q10": "Tips favorit Anda saat interview kandidat?",
+      "q11": "Bagaimana Anda menangani kandidat yang nervous?",
+      "q12": "Ceritakan pengalaman rekrutmen yang menantang.",
+      "q13": "Apa social media yang efektif untuk rekrutmen?",
+      "q14": "Bagaimana Anda menjaga database kandidat?",
+      "q15": "Apa yang membuat perusahaan ini menarik bagi kandidat?"
+    }
+  },
+  {
+    "job_description": "IT Support\n\n**Keahlian yang dibutuhkan:**\n1. Pengalaman troubleshooting\n2. Pemahaman hardware & software\n3. Kemampuan komunikasi yang baik\n4. Bisa remote desktop support\n5. Familiar dengan OS Windows & Mac\n6. Basic networking knowledge\n7. Dokumentasi IT yang rapi\n\n**Persyaratan:**\n1. Min. D3 IT atau setara\n2. Sertifikasi IT (nilai plus)\n3. Sabar dan telaten\n4. Problem solving yang baik\n5. Bisa bekerja dalam tim\n6. Rapi dan terorganisir\n7. Bersedia di Bandung",
+    "applicant_info": "Reza Firmansyah\nPoliteknik Negeri Bandung\nTeknik Informatika",
+    "questions": {
+      "q1": "Apa yang membuat Anda senang membantu orang dengan masalah IT?",
+      "q2": "Ceritakan pengalaman troubleshooting favorit Anda.",
+      "q3": "Bagaimana cara Anda menjelaskan masalah teknis ke user awam?",
+      "q4": "Apa tips Anda agar user nyaman saat dibantu?",
+      "q5": "Bagaimana cara Anda tetap sabar menghadapi user yang panik?",
+      "q6": "Ceritakan pengalaman mengajarkan IT ke orang lain.",
+      "q7": "Tool troubleshooting favorit Anda apa?",
+      "q8": "Bagaimana cara Anda mendokumentasikan masalah?",
+      "q9": "Ceritakan pengalaman kerja tim support Anda.",
+      "q10": "Apa yang Anda lakukan jika stuck menangani masalah?",
+      "q11": "Bagaimana Anda prioritaskan banyak ticket support?",
+      "q12": "Tips agar user tidak repeat same problem?",
+      "q13": "Apa cara Anda belajar teknologi baru?",
+      "q14": "Bagaimana Anda handle stress saat peak hour?",
+      "q15": "Ceritakan hobi Anda di luar dunia IT?"
+    }
+  },
+  {
+    "job_description": "Admin Finance\n\n**Keahlian yang dibutuhkan:**\n1. Pengalaman admin/finance\n2. Mahir MS Excel\n3. Teliti dan detail oriented\n4. Bisa input data keuangan\n5. Familiar dengan sistem accounting\n6. Bisa filing dan dokumentasi\n7. Kemampuan komunikasi baik\n\n**Persyaratan:**\n1. Min. D3 Accounting/Management\n2. Jujur dan dapat dipercaya\n3. Organized dan rapi\n4. Bisa multitasking\n5. Team player\n6. Sabar dan teliti\n7. Bersedia di Jakarta Selatan",
+    "applicant_info": "Dinda Permata\nUniversitas Mercubuana\nManajemen",
+    "questions": {
+      "q1": "Apa yang membuat Anda tertarik dengan pekerjaan admin finance?",
+      "q2": "Ceritakan pengalaman menangani data keuangan.",
+      "q3": "Bagaimana cara Anda memastikan ketelitian?",
+      "q4": "Excel formula apa yang sering Anda gunakan?",
+      "q5": "Bagaimana cara Anda mengorganisir dokumen?",
+      "q6": "Ceritakan sistem filing yang Anda terapkan.",
+      "q7": "Bagaimana cara Anda handle banyak deadline?",
+      "q8": "Apa yang Anda lakukan jika menemukan selisih data?",
+      "q9": "Ceritakan pengalaman teamwork Anda.",
+      "q10": "Bagaimana Anda menjaga kerahasiaan data?",
+      "q11": "Tips agar tetap fokus saat input data?",
+      "q12": "Bagaimana cara Anda handle stress?",
+      "q13": "Ceritakan hobi Anda di luar kerja.",
+      "q14": "Apa yang membuat Anda cocok dengan posisi ini?",
+      "q15": "Bagaimana Anda belajar hal baru?"
+    }
+  },
+  {
+    "job_description": "Software Engineer\n\n**Keahlian yang dibutuhkan:**\n1. Pengalaman software engineer\n2. Mahir Java dan Angular\n3. Teliti dan detail oriented\n4. Bisa menulis dokumentasi\n5. Familiar dengan testing\n6. Bisa mengembangkan aplikasi\n7. Kemampuan komunikasi baik\n\n**Persyaratan:**\n1. Min. S1 Ilmu Komputer\n2. Jujur dan dapat dipercaya\n3. Organized dan rapi\n4. Bisa multitasking\n5. Team player\n6. Sabar dan teliti\n7. Bersedia di Jakarta Selatan",
+    "applicant_info": "Rafi\nUniversitas Indonesia\nIlmu Komputer",
+    "questions": {
+      "q1": "Apa yang membuat Anda tertarik dengan pekerjaan software engineer?",
+      "q2": "Ceritakan pengalaman programming Anda.",
+      "q3": "Bagaimana cara Anda memastikan ketelitian?",
+      "q4": "Apa kelebihan Anda dibandingkan kandidat lain?",
+      "q5": "Bagaimana cara Anda mengorganisir kode?",
+      "q6": "Ceritakan pengalaman testing yang Anda lakukan.",
+      "q7": "Bagaimana cara Anda handle banyak deadline?",
+      "q8": "Apa yang Anda lakukan jika menemukan bug?",
+      "q9": "Ceritakan pengalaman teamwork Anda.",
+      "q10": "Bagaimana Anda menjaga kerahasiaan kode?",
+      "q11": "Tips agar tetap fokus saat coding?",
+      "q12": "Bagaimana cara Anda handle stress?",
+      "q13": "Ceritakan hobi Anda di luar kerja.",
+      "q14": "Apa yang membuat Anda cocok dengan posisi ini?",
+      "q15": "Bagaimana Anda belajar hal baru?"
+    }
+  },
+  {
+    "job_description": "Area Sales Leader - Tangerang\n\n**Tanggung jawab:**\n1. Mensupervisi tim Sales Promotion\n2. Memastikan pencapaian target Sales Promotion\n3. Membuat strategi untuk mencapai target\n4. Membuat laporan harian, mingguan, bulanan\n5. Membina hubungan dengan toko-toko yang bekerja sama\n\n**Kualifikasi:**\n1. Pendidikan Minimal Diploma/Sarjana\n2. Memiliki pengalaman minimal 2 tahun sebagai Sales Supervisor di Industri Mobile Phone/Gadget\n3. Memiliki kemampuan dalam memimpin, mentoring dan analisa\n4. Bersedia untuk bekerja secara mobile\n5. Menguasai daerah Tangerang dan sekitarnya",
+    "applicant_info": "Rizky Aditya Pratama\nUniversitas Trisakti\nManajemen Pemasaran",
+    "questions": {
+      "q1": "Bisa ceritakan pengalaman Anda sebagai Sales Supervisor di industri gadget/telekomunikasi?",
+      "q2": "Bagaimana strategi Anda dalam mencapai target tim sales?",
+      "q3": "Berapa besar tim yang pernah Anda pimpin dan bagaimana cara Anda memotivasi mereka?",
+      "q4": "Ceritakan keberhasilan terbesar tim Anda dalam mencapai target penjualan.",
+      "q5": "Bagaimana cara Anda membangun dan menjaga hubungan baik dengan partner toko?",
+      "q6": "Apa strategi Anda dalam menghadapi kompetitor di area yang sama?",
+      "q7": "Bagaimana pendekatan Anda dalam melakukan coaching ke tim sales?",
+      "q8": "Ceritakan pengalaman Anda menangani konflik dalam tim atau dengan partner toko.",
+      "q9": "Bagaimana cara Anda monitoring kinerja tim sehari-hari?",
+      "q10": "Apa yang Anda lakukan jika ada area yang performa penjualannya menurun?",
+      "q11": "Seberapa familiar Anda dengan area Tangerang? Bisa sebutkan potential point of sales di area tersebut?",
+      "q12": "Bagaimana cara Anda memastikan tim mencapai target sambil tetap menjaga kualitas layanan?",
+      "q13": "Bisa jelaskan sistem pelaporan sales yang pernah Anda terapkan?",
+      "q14": "Apa inovasi atau improvement yang pernah Anda lakukan di posisi sebelumnya?",
+      "q15": "Bagaimana Anda melihat perkembangan industri gadget/telekomunikasi saat ini dan pengaruhnya terhadap strategi sales?"
+    }
+  },
+  {
+    "job_description": "Area Sales Leader - Tangerang\n\n**Tanggung jawab:**\n1. Mensupervisi tim Sales Promotion\n2. Memastikan pencapaian target Sales Promotion\n3. Membuat strategi untuk mencapai target\n4. Membuat laporan harian, mingguan, bulanan\n5. Membina hubungan dengan toko-toko yang bekerja sama\n\n**Kualifikasi:**\n1. Pendidikan Minimal Diploma/Sarjana\n2. Memiliki pengalaman minimal 2 tahun sebagai Sales Supervisor di Industri Mobile Phone/Gadget\n3. Memiliki kemampuan dalam memimpin, mentoring dan analisa\n4. Bersedia untuk bekerja secara mobile\n5. Menguasai daerah Tangerang dan sekitarnya",
+    "applicant_info": "Fajar Nugroho\nPoliteknik Negeri Jakarta\nManajemen Bisnis",
+    "questions": {
+      "q1": "Selama di OPPO/Samsung/XL, bagaimana Anda mengelola tim promotor di berbagai toko?",
+      "q2": "Ceritakan pengalaman Anda menghadapi situasi saat target bulanan terancam tidak tercapai.",
+      "q3": "Bagaimana cara Anda memastikan setiap promotor memahami product knowledge dengan baik?",
+      "q4": "Apa metode Anda dalam melakukan briefing dan evaluasi tim?",
+      "q5": "Biasanya berapa kali seminggu Anda mengunjungi setiap toko? Bagaimana Anda mengatur waktunya?",
+      "q6": "Bagaimana cara Anda menangani promotor yang performanya kurang baik?",
+      "q7": "Ceritakan pengalaman Anda bernegosiasi dengan pihak toko untuk mendapatkan spot display yang strategis.",
+      "q8": "Apa strategi Anda dalam menghadapi periode low season?",
+      "q9": "Bagaimana cara Anda membangun relationship dengan mall management atau toko?",
+      "q10": "Sistem insentif seperti apa yang paling efektif menurut pengalaman Anda?",
+      "q11": "Bagaimana Anda memanfaatkan data penjualan untuk membuat strategi?",
+      "q12": "Apa tantangan terbesar mengelola tim sales di industri gadget?",
+      "q13": "Ceritakan program sales terbaik yang pernah Anda jalankan.",
+      "q14": "Bagaimana Anda mensosialisasikan program promo baru ke tim?",
+      "q15": "Apa yang membuat Anda tertarik bergabung dengan Kredivo?"
+    }
+  },
+  {
+    "job_description": "Area Sales Leader - Tangerang\n\n**Tanggung jawab:**\n1. Mensupervisi tim Sales Promotion\n2. Memastikan pencapaian target Sales Promotion\n3. Membuat strategi untuk mencapai target\n4. Membuat laporan harian, mingguan, bulanan\n5. Membina hubungan dengan toko-toko yang bekerja sama\n\n**Kualifikasi:**\n1. Pendidikan Minimal Diploma/Sarjana\n2. Memiliki pengalaman minimal 2 tahun sebagai Sales Supervisor di Industri Mobile Phone/Gadget\n3. Memiliki kemampuan dalam memimpin, mentoring dan analisa\n4. Bersedia untuk bekerja secara mobile\n5. Menguasai daerah Tangerang dan sekitarnya",
+    "applicant_info": "Dewi Lestari\nUniversitas Multimedia Nusantara\nBisnis dan Marketing",
+    "questions": {
+      "q1": "Bisa gambarkan typical day Anda sebagai supervisor di industri gadget sebelumnya?",
+      "q2": "Bagaimana cara Anda membangun semangat kompetisi yang sehat dalam tim?",
+      "q3": "Tool apa yang Anda gunakan untuk monitoring aktivitas tim di lapangan?",
+      "q4": "Ceritakan pengalaman Anda menangani komplain dari customer atau toko.",
+      "q5": "Bagaimana cara Anda menyusun target individu untuk tiap promotor?",
+      "q6": "Apa strategi Anda untuk mendorong cross-selling dan upselling?",
+      "q7": "Bagaimana Anda memastikan tim selalu update dengan produk knowledge?",
+      "q8": "Ceritakan pengalaman Anda mengorganisir event promotion di mall.",
+      "q9": "Bagaimana cara Anda menjaga hubungan baik dengan sesama supervisor area?",
+      "q10": "Apa KPI terpenting untuk tim promotor menurut Anda?",
+      "q11": "Bagaimana Anda mengelola inventory display di toko-toko?",
+      "q12": "Ceritakan pengalaman Anda melatih promotor baru.",
+      "q13": "Apa strategi Anda untuk mencapai target di masa-masa sulit seperti pandemi?",
+      "q14": "Bagaimana Anda menangani situasi ketika ada promotor yang resign mendadak?",
+      "q15": "Apa yang Anda ketahui tentang market Tangerang dan potensinya?"
+    }
+  },
+  {
+    "job_description": "Product Manager - Jakarta\n\n**Responsibilities:**\n1. Develop product strategy and roadmap\n2. Collaborate with cross-functional teams\n3. Conduct market research and analysis\n4. Monitor product performance\n5. Manage product lifecycle\n\n**Qualifications:**\n1. Minimum Bachelor's degree in Business or Engineering\n2. At least 3 years of experience in product management\n3. Strong analytical and problem-solving skills\n4. Excellent communication and leadership abilities\n5. Familiarity with agile methodologies",
+    "applicant_info": "Bayu Kurniawan\nInstitut Teknologi Bandung\nTeknik Industri",
+    "questions": {
+      "q1": "Bagaimana cara Anda menentukan prioritas fitur dalam pengembangan produk?",
+      "q2": "Ceritakan pengalaman Anda dalam meluncurkan produk baru ke pasar.",
+      "q3": "Apa strategi Anda untuk menangani feedback pelanggan?",
+      "q4": "Bagaimana Anda bekerja dengan tim teknis dalam pengembangan produk?",
+      "q5": "Ceritakan tantangan yang pernah Anda hadapi dalam pengelolaan produk.",
+      "q6": "Bagaimana Anda melakukan analisis pesaing?",
+      "q7": "Apa saja metrik utama yang Anda gunakan untuk mengukur keberhasilan produk?",
+      "q8": "Bagaimana Anda berkomunikasi dengan tim penjualan mengenai produk baru?",
+      "q9": "Ceritakan inovasi produk yang pernah Anda kembangkan.",
+      "q10": "Bagaimana Anda menangani perubahan kebutuhan pasar?"
+    }
+  },
+  {
+    "job_description": "Marketing Specialist - Yogyakarta\n\n**Responsibilities:**\n1. Develop and execute marketing campaigns\n2. Analyze market trends and consumer behavior\n3. Collaborate with design and content teams\n4. Manage social media platforms\n5. Monitor and report on marketing performance\n\n**Qualifications:**\n1. Bachelor's degree in Marketing or related field\n2. Minimum 2 years of experience in marketing\n3. Strong understanding of digital marketing\n4. Excellent communication skills\n5. Ability to work in a team environment",
+    "applicant_info": "Siti Nurhaliza\nUniversitas Gadjah Mada\nIlmu Komunikasi",
+    "questions": {
+      "q1": "Bagaimana cara Anda merancang kampanye pemasaran yang efektif?",
+      "q2": "Ceritakan pengalaman Anda dalam meningkatkan engagement di media sosial.",
+      "q3": "Apa strategi Anda untuk mengukur ROI dari kampanye pemasaran?",
+      "q4": "Bagaimana Anda berkolaborasi dengan tim desain dan konten?",
+      "q5": "Ceritakan tantangan yang pernah Anda hadapi dalam pemasaran digital.",
+      "q6": "Bagaimana Anda mengidentifikasi tren pasar yang relevan?",
+      "q7": "Apa pendekatan Anda dalam penargetan audiens?",
+      "q8": "Bagaimana Anda menangani feedback negatif dari pelanggan?",
+      "q9": "Ceritakan kampanye pemasaran paling sukses yang pernah Anda jalankan.",
+      "q10": "Bagaimana Anda beradaptasi dengan perubahan dalam teknologi pemasaran?"
+    }
+  },
+  {
+    "job_description": "IT Project Manager - Jakarta\n\n**Responsibilities:**\n1. Lead IT projects from initiation to closure\n2. Define project scope, goals, and deliverables\n3. Manage project timelines and budgets\n4. Coordinate with stakeholders and team members\n5. Ensure project compliance with standards\n\n**Qualifications:**\n1. Bachelor's degree in Information Technology or related field\n2. At least 4 years of experience in IT project management\n3. Strong leadership and organizational skills\n4. Excellent communication and negotiation abilities\n5. PMP certification is a plus",
+    "applicant_info": "Rizky Pratama\nUniversitas Indonesia\nSistem Informasi",
+    "questions": {
+      "q1": "Bagaimana cara Anda memastikan proyek IT berjalan sesuai jadwal?",
+      "q2": "Ceritakan pengalaman Anda dalam menangani perubahan scope proyek.",
+      "q3": "Apa langkah Anda untuk menjaga komunikasi yang efektif dengan pemangku kepentingan?",
+      "q4": "Bagaimana Anda mengelola risiko proyek?",
+      "q5": "Ceritakan proyek IT terbesar yang pernah Anda pimpin.",
+      "q6": "Bagaimana Anda memastikan kualitas deliverables proyek?",
+      "q7": "Apa metode Anda dalam pengelolaan anggaran proyek?",
+      "q8": "Bagaimana Anda memotivasi tim proyek untuk mencapai target?",
+      "q9": "Ceritakan tantangan terbesar yang pernah Anda hadapi dalam manajemen proyek IT.",
+      "q10": "Bagaimana Anda menangani konflik dalam tim proyek?"
+    }
+  },
+  {
+    "job_description": "HR Specialist - Bandung\n\n**Responsibilities:**\n1. Develop and implement HR strategies\n2. Manage recruitment and selection process\n3. Oversee employee onboarding and training\n4. Conduct performance reviews and feedback sessions\n5. Ensure compliance with labor regulations\n\n**Qualifications:**\n1. Bachelor's degree in Human Resources or Psychology\n2. Minimum 3 years of experience in HR\n3. Strong understanding of HR practices and labor laws\n4. Excellent interpersonal and communication skills\n5. Ability to handle confidential information",
+    "applicant_info": "Anita Sari\nUniversitas Padjadjaran\nPsikologi",
+    "questions": {
+      "q1": "Bagaimana cara Anda menangani proses rekrutmen yang efektif?",
+      "q2": "Ceritakan pengalaman Anda dalam mengatasi konflik antar karyawan.",
+      "q3": "Apa strategi Anda untuk meningkatkan kepuasan karyawan?",
+      "q4": "Bagaimana Anda mengelola pelatihan dan pengembangan karyawan?",
+      "q5": "Ceritakan tantangan terbesar yang pernah Anda hadapi dalam manajemen SDM.",
+      "q6": "Bagaimana Anda memastikan kepatuhan terhadap peraturan ketenagakerjaan?",
+      "q7": "Apa pendekatan Anda dalam memberikan feedback konstruktif kepada karyawan?",
+      "q8": "Bagaimana Anda menangani isu retensi karyawan?",
+      "q9": "Ceritakan kebijakan HR yang pernah Anda inisiasi.",
+      "q10": "Bagaimana Anda mengukur keberhasilan dari program HR yang dijalankan?"
+    }
+  },
+  {
+    "job_description": "Software Developer - Surabaya\n\n**Responsibilities:**\n1. Design, develop, and maintain software applications\n2. Write clean, scalable, and efficient code\n3. Collaborate with cross-functional teams\n4. Conduct software testing and debugging\n5. Participate in code reviews and provide feedback\n\n**Qualifications:**\n1. Bachelor's degree in Computer Science or related field\n2. Minimum 2 years of experience in software development\n3. Proficient in programming languages such as Java, Python, or C++\n4. Strong problem-solving and analytical skills\n5. Ability to work independently and in a team",
+    "applicant_info": "Dimas Anggara\nUniversitas Airlangga\nIlmu Komputer",
+    "questions": {
+      "q1": "Bagaimana cara Anda memastikan kualitas kode yang Anda tulis?",
+      "q2": "Ceritakan pengalaman Anda dalam mengatasi bug yang kompleks.",
+      "q3": "Apa pendekatan Anda dalam pengembangan aplikasi yang scalable?",
+      "q4": "Bagaimana Anda berkolaborasi dengan tim desain dan produk?",
+      "q5": "Ceritakan proyek pengembangan perangkat lunak terbesar yang pernah Anda kerjakan.",
+      "q6": "Bagaimana Anda menghadapi tekanan deadline dalam pengembangan perangkat lunak?",
+      "q7": "Apa strategi Anda untuk tetap up-to-date dengan teknologi terbaru?",
+      "q8": "Bagaimana Anda melakukan debugging secara efektif?",
+      "q9": "Ceritakan pengalaman Anda dalam melakukan code review.",
+      "q10": "Bagaimana Anda mengatasi tantangan dalam pengembangan perangkat lunak?"
+    }
+  },
+  {
+    "job_description": "Financial Analyst - Semarang\n\n**Responsibilities:**\n1. Analyze financial data and trends\n2. Prepare financial reports and forecasts\n3. Conduct risk assessments and investment evaluations\n4. Collaborate with management on financial strategies\n5. Monitor financial performance and recommend improvements\n\n**Qualifications:**\n1. Bachelor's degree in Finance or Economics\n2. Minimum 3 years of experience in financial analysis\n3. Strong analytical and quantitative skills\n4. Proficiency in financial modeling and forecasting\n5. Excellent communication and presentation abilities",
+    "applicant_info": "Indah Permata\nUniversitas Diponegoro\nEkonomi",
+    "questions": {
+      "q1": "Bagaimana cara Anda melakukan analisis data keuangan yang akurat?",
+      "q2": "Ceritakan pengalaman Anda dalam menyusun laporan keuangan.",
+      "q3": "Apa pendekatan Anda dalam evaluasi investasi?",
+      "q4": "Bagaimana Anda berkolaborasi dengan manajemen dalam strategi keuangan?",
+      "q5": "Ceritakan tantangan terbesar yang pernah Anda hadapi dalam analisis keuangan.",
+      "q6": "Bagaimana Anda mengidentifikasi risiko keuangan?",
+      "q7": "Apa metode Anda dalam pemodelan dan peramalan keuangan?",
+      "q8": "Bagaimana Anda menyajikan hasil analisis keuangan kepada stakeholder?",
+      "q9": "Ceritakan pengalaman Anda dalam meningkatkan kinerja keuangan.",
+      "q10": "Bagaimana Anda menangani perubahan regulasi keuangan?"
+    }
+  },
+  {
+    "job_description": "Agricultural Consultant - Bogor\n\n**Responsibilities:**\n1. Provide expert advice to farmers and agribusinesses\n2. Conduct field assessments and research\n3. Develop sustainable agricultural practices\n4. Analyze and report on industry trends\n5. Collaborate with government and private sector stakeholders\n\n**Qualifications:**\n1. Bachelor's degree in Agriculture or related field\n2. Minimum 2 years of experience in agricultural consulting\n3. Strong knowledge of sustainable agricultural practices\n4. Excellent communication and problem-solving skills\n5. Ability to work independently and travel frequently",
+    "applicant_info": "Rina Oktavia\nInstitut Pertanian Bogor\nAgribisnis",
+    "questions": {
+      "q1": "Bagaimana cara Anda memberikan saran yang efektif kepada petani?",
+      "q2": "Ceritakan pengalaman Anda dalam mengembangkan praktik pertanian berkelanjutan.",
+      "q3": "Apa strategi Anda untuk melakukan penilaian lapangan yang akurat?",
+      "q4": "Bagaimana Anda berkolaborasi dengan pemangku kepentingan sektor pertanian?",
+      "q5": "Ceritakan tantangan terbesar yang pernah Anda hadapi dalam konsultasi pertanian.",
+      "q6": "Bagaimana Anda menganalisis tren industri pertanian?",
+      "q7": "Apa pendekatan Anda dalam menyusun laporan hasil penelitian lapangan?",
+      "q8": "Bagaimana Anda menangani perubahan iklim dalam praktik pertanian?",
+      "q9": "Ceritakan proyek konsultasi pertanian paling sukses yang pernah Anda lakukan.",
+      "q10": "Bagaimana Anda memastikan keberlanjutan dalam praktik pertanian?"
+    }
+  },
+  {
+    "job_description": "Civil Engineer - Malang\n\n**Responsibilities:**\n1. Design and oversee construction projects\n2. Conduct site inspections and assessments\n3. Ensure compliance with safety and environmental regulations\n4. Prepare project budgets and timelines\n5. Collaborate with architects and contractors\n\n**Qualifications:**\n1. Bachelor's degree in Civil Engineering\n2. Minimum 3 years of experience in civil engineering\n3. Strong knowledge of construction methods and materials\n4. Excellent project management and leadership skills\n5. Proficiency in engineering software tools",
+    "applicant_info": "Yusuf Hidayat\nUniversitas Brawijaya\nTeknik Sipil",
+    "questions": {
+      "q1": "Bagaimana cara Anda memastikan proyek konstruksi berjalan sesuai rencana?",
+      "q2": "Ceritakan pengalaman Anda dalam menangani masalah di lokasi konstruksi.",
+      "q3": "Apa pendekatan Anda untuk memastikan kepatuhan terhadap peraturan keselamatan?",
+      "q4": "Bagaimana Anda berkolaborasi dengan arsitek dan kontraktor?",
+      "q5": "Ceritakan proyek konstruksi terbesar yang pernah Anda kerjakan.",
+      "q6": "Bagaimana Anda mengelola anggaran proyek konstruksi?",
+      "q7": "Apa metode Anda dalam melakukan inspeksi dan penilaian lokasi?",
+      "q8": "Bagaimana Anda menangani perubahan desain selama proyek berlangsung?",
+      "q9": "Ceritakan pengalaman Anda dengan perangkat lunak teknik sipil.",
+      "q10": "Bagaimana Anda menghadapi tantangan dalam proyek konstruksi?"
+    }
+  },
+  {
+    "job_description": "Pharmacist - Makassar\n\n**Responsibilities:**\n1. Dispense medications and provide pharmaceutical care\n2. Counsel patients on medication use and safety\n3. Monitor patient health and medication effectiveness\n4. Collaborate with healthcare professionals\n5. Manage pharmaceutical inventory and documentation\n\n**Qualifications:**\n1. Bachelor's degree in Pharmacy\n2. Licensed pharmacist with minimum 2 years of experience\n3. Strong knowledge of drug interactions and side effects\n4. Excellent communication and customer service skills\n5. Ability to work in a fast-paced environment",
+    "applicant_info": "Lina Wijaya\nUniversitas Hasanuddin\nFarmasi",
+    "questions": {
+      "q1": "Bagaimana cara Anda memastikan keamanan penggunaan obat untuk pasien?",
+      "q2": "Ceritakan pengalaman Anda dalam memberikan konseling kepada pasien.",
+      "q3": "Apa pendekatan Anda dalam memantau efektivitas pengobatan?",
+      "q4": "Bagaimana Anda berkolaborasi dengan tenaga kesehatan lainnya?",
+      "q5": "Ceritakan tantangan terbesar yang pernah Anda hadapi sebagai apoteker.",
+      "q6": "Bagaimana Anda mengelola inventaris farmasi?",
+      "q7": "Apa yang Anda lakukan untuk memastikan kepatuhan terhadap peraturan farmasi?",
+      "q8": "Bagaimana Anda menangani pasien dengan kebutuhan obat yang kompleks?",
+      "q9": "Ceritakan pengalaman Anda dalam menangani interaksi obat.",
+      "q10": "Bagaimana Anda memastikan pelayanan pelanggan yang berkualitas?"
+    }
+  },
+  {
+    "job_description": "Operations Manager - Solo\n\n**Responsibilities:**\n1. Oversee daily operations and ensure efficiency\n2. Develop and implement operational policies\n3. Manage budgets and financial performance\n4. Lead and motivate the operations team\n5. Collaborate with other departments to achieve goals\n\n**Qualifications:**\n1. Bachelor's degree in Business Management or related field\n2. Minimum 5 years of experience in operations management\n3. Strong leadership and organizational skills\n4. Excellent problem-solving and analytical abilities\n5. Ability to work under pressure and meet deadlines",
+    "applicant_info": "Agus Setiawan\nUniversitas Sebelas Maret\nManajemen",
+    "questions": {
+      "q1": "Bagaimana cara Anda memastikan efisiensi dalam operasi harian?",
+      "q2": "Ceritakan pengalaman Anda dalam mengembangkan kebijakan operasional.",
+      "q3": "Apa pendekatan Anda dalam pengelolaan anggaran operasional?",
+      "q4": "Bagaimana Anda memotivasi tim operasi untuk mencapai target?",
+      "q5": "Ceritakan tantangan terbesar yang pernah Anda hadapi dalam manajemen operasi.",
+      "q6": "Bagaimana Anda memastikan kolaborasi yang efektif antar departemen?",
+      "q7": "Apa strategi Anda dalam menangani masalah operasional yang mendesak?",
+      "q8": "Bagaimana Anda mengukur kinerja operasional?",
+      "q9": "Ceritakan pengalaman Anda dalam mengelola perubahan operasional.",
+      "q10": "Bagaimana Anda menangani tekanan dan tenggat waktu dalam manajemen operasi?"
+    }
+  },
+  {
+    "job_description": "**Keahlian yang dibutuhkan : **\n1. Frontend Developer, minimal pengalaman 2 tahun\n2. Berpengalaman dalam bahasa pemrograman Javascript dan Typescript\n3. Berpengalaman dalam menggunakan framework React Js, Next Js, Vue\n4. Berpengalaman dalam menggunakan framework Tailwind\n5. Pernah mengerjakan beberapa project menggunakan framework React Js / Next Js / Vue\n6. Mampu menghasilkan code yang clean dan rapi sesuai dengan kebutuhan aplikasi\n7. Dapat melakukan testing internal dan deployment fixing, troubleshooting, debugging dan improvement\n\n** Persyaratan **: \n1. Sarjana S1 dibidang Komputer / IT / MI / Sejenis\n2. Memiliki sertifikat pelatihan / course / lainnya yang berkaitan dengan Frontend Development\n3. Dapat bekerja dengan deadline yang ketat\n4. Mampu kerja dalam tekanan terhadap target pada fase development aplikasi\n5. Dapat bekerja sendiri atau dengan Tim\n6. Bersedia melakukan kunjungan untuk Progres Report dan Sosialisasi Aplikasi ke luar / dalam kota\n7. Bersedia lembur jika dibutuhkan\n8. Memiliki motivasi tinggi, disiplin, kreatif, jujur, dan bertanggung jawab\n9. Senang belajar dengan hal – hal baru\n10. Penempatan di kota Bandung",
+    "applicant_info": "Danang Hapis Fadillah\nUniversitas Indraprasta PGRI\nTeknik Informatika",
+    "questions": {
+      "q1": "Bisa ceritakan perjalanan Anda menuju karier di bidang Frontend Development?",
+      "q2": "Apa yang membuat Anda memilih Teknik Informatika di Universitas Indraprasta PGRI?",
+      "q3": "Dari proyek yang pernah Anda kerjakan, mana yang paling menantang, dan bagaimana Anda mengatasinya?",
+      "q4": "Bagaimana pengalaman Anda menggunakan framework seperti React, Next.js, atau Vue dalam proyek nyata?",
+      "q5": "Saat diminta untuk membuat kode yang clean dan efisien, langkah apa yang Anda ambil untuk memastikan kualitas kode?",
+      "q6": "Pernahkah Anda mengalami kendala saat debugging atau troubleshooting? Bagaimana Anda menyelesaikan masalah tersebut?",
+      "q7": "Bisa jelaskan pengalaman Anda dengan Tailwind? Bagaimana Anda membandingkannya dengan framework CSS lainnya?",
+      "q8": "Misalkan Anda harus menyelesaikan fitur baru dalam waktu yang sangat terbatas. Apa strategi Anda untuk memenuhi deadline tersebut?",
+      "q9": "Jika Anda sedang bekerja dalam tim dan ada anggota yang kinerjanya kurang optimal, bagaimana Anda menyikapinya?",
+      "q10": "Ada permintaan perubahan besar dari klien di tengah-tengah proyek. Bagaimana Anda merespons situasi ini?",
+      "q11": "Apa yang memotivasi Anda untuk terus mendalami dunia Frontend Development?",
+      "q12": "Di mana Anda melihat diri Anda dalam lima tahun ke depan dalam karier Anda?",
+      "q13": "Dengan berbagai tugas yang harus diselesaikan, bagaimana Anda mengatur prioritas pekerjaan Anda?",
+      "q14": "Apakah Anda bersedia ditempatkan di Bandung? Jika ya, bagaimana kesiapan Anda untuk pindah?",
+      "q15": "Ada hal lain yang ingin Anda tanyakan terkait posisi ini?"
+    }
+  },
+  {
+    "job_description": "**Keahlian yang dibutuhkan:**\n1. Machine Learning Engineer, minimal pengalaman 2 tahun\n2. Berpengalaman dalam bahasa pemrograman Python dan R\n3. Memiliki pengalaman dalam pengolahan data dengan library seperti Pandas, Numpy, atau PySpark\n4. Mampu membuat, melatih, dan mengoptimasi model machine learning\n5. Berpengalaman dengan framework seperti TensorFlow, PyTorch, atau Scikit-learn\n6. Memiliki pemahaman yang baik tentang algoritma supervised dan unsupervised learning\n7. Berpengalaman dengan deployment model ke lingkungan produksi\n8. Memahami konsep MLOps dan tools seperti Docker, Kubernetes, atau MLflow\n9. Mampu melakukan troubleshooting model yang tidak bekerja optimal\n\n**Persyaratan:**\n1. Sarjana S1 di bidang Teknik/IT/Matematika/Statistika atau sejenis\n2. Memiliki sertifikasi terkait Data Science/Machine Learning/AI\n3. Mampu bekerja secara mandiri maupun dalam tim\n4. Bersedia bekerja di bawah tekanan dengan target yang ketat\n5. Bersedia lembur jika dibutuhkan\n6. Memiliki motivasi tinggi, kritis, inovatif, dan bertanggung jawab\n7. Penempatan di Jakarta",
+    "applicant_info": "Raka Wiratama\nInstitut Teknologi Bandung\nTeknik Elektro",
+    "questions": {
+      "q1": "Apa yang menarik minat Anda untuk berkarier sebagai Machine Learning Engineer?",
+      "q2": "Bisa ceritakan pengalaman Anda selama di ITB yang relevan dengan machine learning atau pengolahan data?",
+      "q3": "Dari pengalaman Anda, apa proyek machine learning paling kompleks yang pernah Anda kerjakan, dan apa tantangan utamanya?",
+      "q4": "Bagaimana Anda memutuskan framework apa yang digunakan, misalnya TensorFlow atau PyTorch, dalam suatu proyek?",
+      "q5": "Jika Anda diminta untuk mengoptimasi model yang memiliki akurasi rendah, langkah apa yang akan Anda lakukan?",
+      "q6": "Bagaimana pengalaman Anda dengan deployment model ke lingkungan produksi? Bisa berikan contoh kasus?",
+      "q7": "Pernahkah Anda menggunakan tools seperti Docker atau Kubernetes dalam proyek Anda? Bagaimana pengalaman Anda?",
+      "q8": "Dalam suatu kasus, model Anda menunjukkan overfitting. Apa langkah yang Anda ambil untuk memperbaikinya?",
+      "q9": "Jika Anda bekerja dalam tim dan rekan memiliki pendekatan berbeda dalam pengembangan model, bagaimana Anda menyelesaikan perbedaan ini?",
+      "q10": "Anda diberi data yang sangat besar namun tidak terstruktur. Apa langkah pertama Anda untuk mengolah data tersebut?",
+      "q11": "Apa yang memotivasi Anda untuk terus mendalami dunia machine learning?",
+      "q12": "Bagaimana Anda melihat perkembangan karier Anda di bidang AI dalam lima tahun ke depan?",
+      "q13": "Apa yang Anda harapkan dari perusahaan ini untuk mendukung perkembangan profesional Anda?",
+      "q14": "Apakah Anda bersedia untuk penempatan di Jakarta, dan bagaimana Anda mempersiapkan diri untuk itu?",
+      "q15": "Adakah hal yang ingin Anda tanyakan tentang posisi ini atau perusahaan kami?"
+    }
+  },
+  {
+    "job_description": "**Keahlian yang dibutuhkan:**\n1. Pengalaman minimal 2 tahun sebagai Data Analyst\n2. Memahami dan menguasai SQL untuk query database\n3. Familiar dengan tools visualisasi data (Tableau, Power BI)\n4. Kemampuan statistical analysis yang kuat\n5. Pengalaman menggunakan Python/R untuk analisis data\n6. Kemampuan membuat laporan dan presentasi yang baik\n7. Mampu mengidentifikasi tren dan pola dari data kompleks\n\n**Persyaratan:**\n1. Minimal S1 Psikologi/Statistik/Matematika/IT\n2. Memiliki sertifikasi di bidang data analytics\n3. Kemampuan komunikasi yang baik\n4. Mampu bekerja dengan deadline\n5. Berpengalaman dalam menganalisis data perilaku konsumen\n6. Mampu bekerja secara independen maupun dalam tim\n7. Bersedia melakukan presentasi ke stakeholder\n8. Kemampuan problem-solving yang kuat\n9. Bersedia berbasis di Jakarta\n10. Dapat menggunakan MS Office dengan mahir",
+    "applicant_info": "Sarah Widya Kusuma\nUniversitas Gadjah Mada\nPsikologi",
+    "questions": {
+      "q1": "Dengan latar belakang Psikologi, bagaimana Anda mengembangkan keahlian di bidang Data Analytics?",
+      "q2": "Bisa jelaskan pengalaman Anda menggunakan SQL? Berikan contoh query kompleks yang pernah Anda buat.",
+      "q3": "Bagaimana Anda menggabungkan pemahaman psikologi dengan analisis data dalam pekerjaan sehari-hari?",
+      "q4": "Ceritakan pengalaman Anda menggunakan tools visualisasi data. Apa proyek terbaik yang pernah Anda buat?",
+      "q5": "Dalam analisis perilaku konsumen, metode statistik apa yang sering Anda gunakan?",
+      "q6": "Bagaimana cara Anda menyajikan hasil analisis yang kompleks kepada stakeholder non-teknis?",
+      "q7": "Berikan contoh kasus di mana Anda menggunakan Python/R untuk memecahkan masalah bisnis.",
+      "q8": "Bagaimana strategi Anda ketika menghadapi dataset yang tidak lengkap atau mengandung banyak noise?",
+      "q9": "Ceritakan pengalaman Anda bekerja dalam tim lintas fungsi (cross-functional team).",
+      "q10": "Apa tantangan terbesar yang pernah Anda hadapi dalam proyek analisis data, dan bagaimana mengatasinya?",
+      "q11": "Bagaimana Anda memastikan keakuratan dalam analisis dan pelaporan data?",
+      "q12": "Sertifikasi apa saja yang sudah Anda miliki di bidang data analytics?",
+      "q13": "Bagaimana Anda mengikuti perkembangan terbaru dalam bidang data analytics?",
+      "q14": "Apa yang membuat Anda tertarik untuk bergabung dengan perusahaan kami?",
+      "q15": "Apakah Anda siap untuk basis di Jakarta? Bagaimana rencana relokasi Anda?"
+    }
+  }
+]

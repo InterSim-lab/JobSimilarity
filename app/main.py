@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
 from app.models.schemas import Job, JobSimilarity
@@ -51,5 +51,14 @@ async def get_job_detail(id: int):
 async def get_similar_jobs(id: int, limit: int = 10):
     try:
         return actions.get_similar_jobs(id, limit)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+@app.get("/api/jobs", response_model=List[Job])
+async def get_find_jobs_by_title(title: str = Query(None, description="The title of the jobs to return.")):
+    try:
+        if title is None:
+            raise HTTPException(status_code=400, detail="title is required")
+        return actions.get_find_jobs_by_title(title)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))

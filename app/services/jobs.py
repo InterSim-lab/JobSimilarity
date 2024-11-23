@@ -91,3 +91,16 @@ class JobAction:
         similar_jobs["similarity_score"] = similarities[similar_indices]
 
         return similar_jobs.to_dict("records")
+
+    def get_find_jobs_by_title(self, title: str) -> List[Dict]:
+        """
+        Returns a list of jobs that contain the given title.
+
+        Args:
+            title (str): The title of the jobs to return.
+            limit (int): The number of jobs to return. Defaults to 10.
+
+        Returns:
+            List[Dict]: A list of jobs, each represented as a dictionary.
+        """
+        return self.df[self.df["title"].str.contains(title)].to_dict("records")
