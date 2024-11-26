@@ -7,11 +7,8 @@ from app.services.jobs import JobAction
 app = FastAPI(
     title="Job Similarity API",
     description="API for finding similar jobs",
-    version="0.1.0",
-    contact={
-        "name": "Nangdosan",
-        "url": "https://hapeace.vercel.app",
-    })
+    version="1.0.0",
+    )
 
 app.add_middleware(
     CORSMiddleware,
@@ -38,7 +35,7 @@ async def get_jobs_by_category(category: str, limit: int = 10):
     try:
         return actions.get_jobs_by_category(category, limit)
     except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+        raise HTTPException(status_code=500, detail=f"Category {category} not found")
     
 @app.get("/api/jobs/{id}", response_model=Job)
 async def get_job_detail(id: int):
