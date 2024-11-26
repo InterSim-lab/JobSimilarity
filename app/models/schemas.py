@@ -10,7 +10,8 @@ class Job(BaseModel):
     min_edu: Optional[str] = None
     min_exp: Optional[str] = None
     description: str
-    url: str
+    urlJob: str
+    urlImg: str
 
 class JobSimilarity(BaseModel):
     title: str
@@ -20,5 +21,6 @@ class JobSimilarity(BaseModel):
     min_edu: Optional[str] = None
     min_exp: Optional[str] = None
     description: str
-    url: str
+    urlJob: str
+    urlImg: str
     similarity_score: float
