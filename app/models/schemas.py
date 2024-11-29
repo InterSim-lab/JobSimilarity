@@ -24,3 +24,13 @@ class JobSimilarity(BaseModel):
     urlJob: str
     urlImg: str
     similarity_score: float
+
+class IntersimQ(BaseModel):
+    name: str
+    institution: str
+    degree: str
+    describe_me: Optional[str] = None
+
+    title: str
+    company: str
+    job_description: str

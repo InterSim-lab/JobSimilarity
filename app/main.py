@@ -1,8 +1,9 @@
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
-from app.models.schemas import Job, JobSimilarity
+from app.models.schemas import Job, JobSimilarity, IntersimQ
 from app.services.jobs import JobAction
+# from app.services.intersim_q import InterSimQ
 
 app = FastAPI(
     title="Job Similarity API",
@@ -18,6 +19,7 @@ app.add_middleware(
 )
 
 actions = JobAction()
+# IntersimQAI = InterSimQ()
 
 @app.get("/")
 def index():
@@ -59,3 +61,19 @@ async def get_find_jobs_by_title(title: str = Query(None, description="The title
         return actions.get_find_jobs_by_title(title)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+# @app.post("/api/intersim/q", response_model=str)
+# async def get_questions(data: IntersimQ):
+#     prompt = f"""
+# ### Question: Generate a set of interview questions for a {data.title} position at {data.company}. The questions should be derived from the following job description and candidate requirements.
+#     Job Description:
+#     {data.job_description}
+# ### Input: Nama: {data.name}
+#     Asal Institusi: {data.institution}
+#     Prodi: {data.degree}
+# ### Answer:
+# """
+#     try:
+#         return IntersimQAI.generator(prompt)
+#     except Exception as e:
+#         raise HTTPException(status_code=500, detail=str(e))

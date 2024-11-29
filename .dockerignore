@@ -3,6 +3,5 @@ __pycache__
 test
 *.md
 *.pyc
-tuning
 development
 *.ipynb
