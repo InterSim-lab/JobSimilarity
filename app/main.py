@@ -1,8 +1,11 @@
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
-from app.models.schemas import Job, JobSimilarity
+from app.models.schemas import Job, JobSimilarity, IntersimQ
 from app.services.jobs import JobAction
+from app.services.intersim_q import InterSim
+from typing import Any
+import json
 
 app = FastAPI(
     title="Job Similarity API",
@@ -18,6 +21,7 @@ app.add_middleware(
 )
 
 actions = JobAction()
+IntersimQAI = InterSim()
 
 @app.get("/")
 def index():
@@ -57,5 +61,17 @@ async def get_find_jobs_by_title(title: str = Query(None, description="The title
         if title is None:
             raise HTTPException(status_code=400, detail="title is required")
         return actions.get_find_jobs_by_title(title)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+    
+@app.get("/api/intersim", response_model=Any)
+async def get_intersim(type: str = Query(None, description="The type of the question to return.")) -> Any:
+    try:
+        if type is None:
+            raise HTTPException(status_code=400, detail="type is required")
+        elif type.lower() == "q":
+            return IntersimQAI.generator(type)
+        else:
+            return IntersimQAI.generator(type)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
