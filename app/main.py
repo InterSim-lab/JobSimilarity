@@ -3,7 +3,9 @@ from fastapi.middleware.cors import CORSMiddleware
 from typing import List
 from app.models.schemas import Job, JobSimilarity, IntersimQ
 from app.services.jobs import JobAction
-# from app.services.intersim_q import InterSimQ
+from app.services.intersim_q import InterSim
+from typing import Any
+import json
 
 app = FastAPI(
     title="Job Similarity API",
@@ -19,7 +21,7 @@ app.add_middleware(
 )
 
 actions = JobAction()
-# IntersimQAI = InterSimQ()
+IntersimQAI = InterSim()
 
 @app.get("/")
 def index():
@@ -62,18 +64,14 @@ async def get_find_jobs_by_title(title: str = Query(None, description="The title
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
     
-# @app.post("/api/intersim/q", response_model=str)
-# async def get_questions(data: IntersimQ):
-#     prompt = f"""
-# ### Question: Generate a set of interview questions for a {data.title} position at {data.company}. The questions should be derived from the following job description and candidate requirements.
-#     Job Description:
-#     {data.job_description}
-# ### Input: Nama: {data.name}
-#     Asal Institusi: {data.institution}
-#     Prodi: {data.degree}
-# ### Answer:
-# """
-#     try:
-#         return IntersimQAI.generator(prompt)
-#     except Exception as e:
-#         raise HTTPException(status_code=500, detail=str(e))
+@app.get("/api/intersim", response_model=Any)
+async def get_intersim(type: str = Query(None, description="The type of the question to return.")) -> Any:
+    try:
+        if type is None:
+            raise HTTPException(status_code=400, detail="type is required")
+        elif type.lower() == "q":
+            return IntersimQAI.generator(type)
+        else:
+            return IntersimQAI.generator(type)
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
