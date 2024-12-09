@@ -28,6 +28,7 @@ class JobAction:
         self.df = pd.read_csv(settings.DATA_DIR / settings.DATASET_FILE)
         self.df.fillna("", inplace=True)
         self.df["id"] = self.df.index
+        self.df = self.df.drop(columns=["description_cleaned", "lang"])
 
         with h5py.File(settings.DATA_DIR / settings.EMBEDDINGS_FILE, "r") as f:
             self.embeddings = np.array(f["embeddings"])
@@ -56,6 +57,7 @@ class JobAction:
             List[Dict]: A list of jobs, each represented as a dictionary.
         """
         return self.df[self.df["category"] == category].sample(limit).to_dict("records")
+
 
     def get_job_detail(self, id: int) -> Dict:
         """
